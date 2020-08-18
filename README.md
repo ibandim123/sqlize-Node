@@ -6,7 +6,7 @@
 ## Título e Descrição
   My first experience using Postgres and Sqlize, saving two information: name and email.
 ## Bagdges 
-![Badge](/dub/l/:packageName)
+![Badge](https://img.shields.io/aur/license/mit)
 
 ## Status do Projeto
   studing basic
