@@ -1,6 +1,6 @@
 const User = require('../models/User')
 
-
+//Funções do BD.
 module.exports = {
     async index(req, res) {
         const users = await User.findAll()

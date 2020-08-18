@@ -1,3 +1,4 @@
+//Configuração do Banco de Dados, usando o Postgres e visualizando com o Postbird
 module.exports = {
     dialect: 'postgres',
     host: 'localhost',

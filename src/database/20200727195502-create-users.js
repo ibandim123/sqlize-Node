@@ -5,7 +5,7 @@
 
 module.exports = {
   up:  (queryInterface, Sequelize) => {   
-     return queryInterface.createTable('users', { //Tabela Users com seus campos. 
+     return queryInterface.createTable('users', { //Tabela Users com seus campos.  As colunas do BD
        id: {//Configurações do campo de dados.
          type: Sequelize.INTEGER,
          primary: true,
